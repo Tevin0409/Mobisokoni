@@ -8,7 +8,7 @@
 <head>
     <meta charset="UTF-8">
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no" name="viewport">
-    <title>Gng</title>
+    <title>Mobisokoni</title>
     <link rel="stylesheet" href="asset/css/app.min.css">
     <script src="{{asset('asset/cdnjs/jquery.min.js')}}"></script>
 
@@ -40,7 +40,7 @@
                         class="col-12 col-sm-8 offset-sm-2 col-md-6 offset-md-3 col-lg-6 offset-lg-3 col-xl-4 offset-xl-4">
                         <div class="card  " >
                             <div class="card-header">
-                                <h4>Login</h4>
+                                <h4>Karibu Mobisokoni, Login</h4>
                             </div>
                             <div class="card-body">
                                 <form method="post" action="" class="needs-validation" novalidate="" id="loginform">
