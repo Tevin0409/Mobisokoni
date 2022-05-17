@@ -1,4 +1,4 @@
-var dominUrl = "http://localhost:8000";
+var dominUrl = " https://sheltered-bastion-28945.herokuapp.com/";
 
 var app =
 
